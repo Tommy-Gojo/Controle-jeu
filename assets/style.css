@@ -1,0 +1,17 @@
+body{
+    background: no-repeat 
+    center/100%
+    url(../assets/img/Capture.PNG);
+    text-align: center;
+    object-fit: cover;
+}
+h1{
+    text-transform: capitalize;
+}
+section{
+    border: dashed;
+}
+#title{
+    padding-top: 3rem;
+}
+
